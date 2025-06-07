@@ -13,7 +13,6 @@ int main() {
     float densidade1 = populacao1 / area1;
     float pibPerCapita1 = pib1 * 1000000000 / populacao1;
 
-   
     char estado2 = 'B';
     char codigo2[4] = "B02";
     char nomeCidade2[50] = "Rio de Janeiro";
